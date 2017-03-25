@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+miab_backend/miab_backend/__pycache__/
+miab_backend/api/__pycache__/
 *.py[cod]
 *$py.class
 
