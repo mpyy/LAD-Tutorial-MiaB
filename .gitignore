@@ -1,6 +1,8 @@
+# Vagrant
+.vagrant/
+
 # Byte-compiled / optimized / DLL files
-miab_backend/miab_backend/__pycache__/
-miab_backend/api/__pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 
